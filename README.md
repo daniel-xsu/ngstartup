@@ -1,0 +1,2 @@
+# ngstartup
+angular startup
